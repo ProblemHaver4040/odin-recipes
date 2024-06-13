@@ -1,0 +1,20 @@
+
+.Title, .Items, .GLC, .Pizza, .SCE{
+    color: brown; background-color: aliceblue; 
+    font-family: 'Courier New', Courier, monospace;
+}
+.Items {
+    font-size: 42px; font-weight: bold;
+}
+
+.Title{
+    font-size: 60px; text-align: center; font-weight: bolder;
+}
+
+h2{color: brown; background-color: aliceblue; text-align: left;
+
+}
+
+.SmallText{
+    background-color: rgb(221, 235, 248);font-family: Verdana, Geneva, Tahoma, sans-serif
+}
